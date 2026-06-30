@@ -1,6 +1,19 @@
 # 💼 JobTracker
 
-An elegant, modern dashboard designed to track, filter, and manage your job applications seamlessly. Built using cutting-edge frontend technologies for speed and responsiveness.
+An elegant, modern dashboard designed to track, filter, and manage your job applications seamlessly. Built using cutting-edge frontend technologies for exceptional speed, responsiveness, and clean layout control.
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo_&_App-blueviolet?style=for-the-badge&logo=vercel)](https://lovable.dev/projects/5486f61c-b771-4715-9a17-de11aaedc177)
+
+---
+
+## 📸 Preview Gallery
+
+Below are previews of the dashboard layout, demonstrating live job search metrics, location filtering, and streamlined layout options.
+
+| Primary Feed | Location-Filtered Search |
+| :---: | :---: |
+| ![Screenshot 2026-06-30 221017.png](Screenshot%202026-06-30%20221017.png) | ![Screenshot 2026-06-30 221034.png](Screenshot%202026-06-30%20221034.png) |
+| *Comprehensive view showcasing 60 jobs found across LinkedIn and other platforms.* | *Filtered results view demonstrating specific queries like Java in Bengaluru.* |
 
 ---
 
