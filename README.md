@@ -3,8 +3,8 @@
 An elegant, modern dashboard designed to track, filter, and manage your job applications seamlessly. Built using cutting-edge frontend technologies for exceptional speed, responsiveness, and clean layout control.
 
 <div align="left">
-  <a href="[https://lovable.dev/projects/5486f61c-b771-4715-9a17-de11aaedc177](https://id-preview--5486f61c-b771-4715-9a17-de11aaedc177.lovable.app/dashboard)" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo_&_App-blueviolet?style=for-the-badge&logo=vercel" alt="Live Demo" />
+  <a href="https://id-preview--5486f61c-b771-4715-9a17-de11aaedc177.lovable.app/dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20App-blueviolet?style=for-the-badge&logo=vercel" alt="Live Demo" />
   </a>
 </div>
 
@@ -12,12 +12,21 @@ An elegant, modern dashboard designed to track, filter, and manage your job appl
 
 ## 📸 Preview Gallery
 
-Below are previews of the dashboard layout, demonstrating live job search metrics, location filtering, and streamlined layout options.
+Below are previews of the dashboard layout, demonstrating live AI job search metrics, location filtering, and streamlined layout options.
 
 | Primary Feed | Location-Filtered Search |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/a1a11984-7516-4533-885c-4bbcc3221711" width="340" alt="Screenshot 2026-06-30 221017.png" /> | <img src="https://github.com/user-attachments/assets/bbab5390-d539-42ea-84d1-36a5de142364" width="340" alt="Screenshot 2026-06-30 221034.png" /> |
 | *Comprehensive view showcasing 60 jobs found across LinkedIn and other platforms.* | *Filtered results view demonstrating specific queries like Java in Bengaluru.* |
+
+---
+
+## ✨ Features
+
+* **Advanced Search Filters:** Filter jobs dynamically by title, company, location, work mode, and experience level.
+* **Multi-Source Aggregator:** View unified listings pulled from top platforms like LinkedIn, Naukri, and more.
+* **Responsive Layout:** Optimized card design displaying key details (LPA, application date, location badges) beautifully across all device sizes.
+* **Save & Track:** Bookmark potential listings or hit Apply instantly.
 
 ---
 
