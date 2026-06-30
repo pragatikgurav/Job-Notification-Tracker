@@ -1,4 +1,5 @@
-# 💼 JobTracker
+# 💼 Job-Notification-Tracker
+
 
 An elegant, modern dashboard designed to track, filter, and manage your job applications seamlessly. Built using cutting-edge frontend technologies for exceptional speed, responsiveness, and clean layout control.
 
