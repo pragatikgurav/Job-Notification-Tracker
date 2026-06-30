@@ -12,7 +12,8 @@ Below are previews of the dashboard layout, demonstrating live job search metric
 
 | Primary Feed | Location-Filtered Search |
 | :---: | :---: |
-| ![Screenshot 2026-06-30 221017.png]() | ![Screenshot 2026-06-30 221034.png](<img width="567" height="825" alt="Screenshot 2026-06-30 221034" src="https://github.com/user-attachments/assets/bbab5390-d539-42ea-84d1-36a5de142364" />
+| ![Screenshot 2026-06-30 221017.png](<img width="565" height="832" alt="Screenshot 2026-06-30 221017" src="https://github.com/user-attachments/assets/a1a11984-7516-4533-885c-4bbcc3221711" />
+) | ![Screenshot 2026-06-30 221034.png](<img width="567" height="825" alt="Screenshot 2026-06-30 221034" src="https://github.com/user-attachments/assets/bbab5390-d539-42ea-84d1-36a5de142364" />
 ) |
 | *Comprehensive view showcasing 60 jobs found across LinkedIn and other platforms.* | *Filtered results view demonstrating specific queries like Java in Bengaluru.* |
 
