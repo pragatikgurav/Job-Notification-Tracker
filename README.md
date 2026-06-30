@@ -2,7 +2,11 @@
 
 An elegant, modern dashboard designed to track, filter, and manage your job applications seamlessly. Built using cutting-edge frontend technologies for exceptional speed, responsiveness, and clean layout control.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo_&_App-blueviolet?style=for-the-badge&logo=vercel)](https://lovable.dev/projects/5486f61c-b771-4715-9a17-de11aaedc177)
+<div align="left">
+  <a href="https://lovable.dev/projects/5486f61c-b771-4715-9a17-de11aaedc177" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo_&_App-blueviolet?style=for-the-badge&logo=vercel" alt="Live Demo" />
+  </a>
+</div>
 
 ---
 
@@ -12,9 +16,7 @@ Below are previews of the dashboard layout, demonstrating live job search metric
 
 | Primary Feed | Location-Filtered Search |
 | :---: | :---: |
-| ![Screenshot 2026-06-30 221017.png](<img width="565" height="832" alt="Screenshot 2026-06-30 221017" src="https://github.com/user-attachments/assets/a1a11984-7516-4533-885c-4bbcc3221711" />
-) | ![Screenshot 2026-06-30 221034.png](<img width="567" height="825" alt="Screenshot 2026-06-30 221034" src="https://github.com/user-attachments/assets/bbab5390-d539-42ea-84d1-36a5de142364" />
-) |
+| <img src="https://github.com/user-attachments/assets/a1a11984-7516-4533-885c-4bbcc3221711" width="340" alt="Screenshot 2026-06-30 221017.png" /> | <img src="https://github.com/user-attachments/assets/bbab5390-d539-42ea-84d1-36a5de142364" width="340" alt="Screenshot 2026-06-30 221034.png" /> |
 | *Comprehensive view showcasing 60 jobs found across LinkedIn and other platforms.* | *Filtered results view demonstrating specific queries like Java in Bengaluru.* |
 
 ---
@@ -48,5 +50,5 @@ cd <YOUR_PROJECT_NAME>
 # 3. Install required dependencies
 npm i
 
-# 4. Start the local development server
+# 4. Start the local development server with instant preview
 npm run dev
