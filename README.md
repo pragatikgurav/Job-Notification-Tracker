@@ -3,7 +3,7 @@
 An elegant, modern dashboard designed to track, filter, and manage your job applications seamlessly. Built using cutting-edge frontend technologies for exceptional speed, responsiveness, and clean layout control.
 
 <div align="left">
-  <a href="https://lovable.dev/projects/5486f61c-b771-4715-9a17-de11aaedc177" target="_blank">
+  <a href="[https://lovable.dev/projects/5486f61c-b771-4715-9a17-de11aaedc177](https://id-preview--5486f61c-b771-4715-9a17-de11aaedc177.lovable.app/dashboard)" target="_blank">
     <img src="https://img.shields.io/badge/Live-Demo_&_App-blueviolet?style=for-the-badge&logo=vercel" alt="Live Demo" />
   </a>
 </div>
