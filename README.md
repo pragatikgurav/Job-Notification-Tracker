@@ -115,16 +115,6 @@ The application provides powerful filtering, quick search, responsive design, an
 
 ---
 
-# ⚙️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,html,css,javascript,nodejs,git,github,vscode"/>
-
-</div>
-
----
-
 # 📂 Folder Structure
 
 ```text
@@ -183,22 +173,6 @@ Display Results
    ▼
 Apply to Job
 ```
-
----
-
-# ⭐ Support
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Made%20with-React-61DAFB?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/>
-
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite"/>
-
-<br><br>
 
 ### ❤️ Happy Coding 🚀
 
