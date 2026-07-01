@@ -20,20 +20,6 @@ Discover, filter, and track thousands of job opportunities from multiple platfor
 
 </a>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-
-</div>
-
 ---
 
 # 📖 About The Project
@@ -44,38 +30,7 @@ Finding the right job from multiple platforms can be time-consuming and overwhel
 
 Whether you're a fresher or an experienced professional, the application helps you stay organized and discover relevant openings faster.
 
----
 
-# 🎯 Project Goals
-
-- 🔍 Simplify job searching
-- 🌍 Search jobs from multiple platforms
-- 📌 Track job opportunities
-- ⚡ Fast and responsive experience
-- 📱 Works perfectly on desktop and mobile
-- 🎨 Clean and modern UI
-
----
-
-# ✨ Key Features
-
-## 🔎 Smart Job Search
-
-- Search jobs instantly
-- Search by technology
-- Search by company
-- Search by location
-
----
-
-## 📍 Advanced Filters
-
-- City Filter
-- Experience Filter
-- Remote Jobs
-- Hybrid Jobs
-- Full-Time Jobs
-- Internship Listings
 
 ---
 
@@ -87,17 +42,6 @@ Whether you're a fresher or an experienced professional, the application helps y
 - Job Description
 - Application Link
 - Posted Date
-
----
-
-## ❤️ User Experience
-
-- Beautiful Interface
-- Fast Loading
-- Responsive Design
-- Modern Layout
-- Easy Navigation
-- Smooth Animations
 
 ---
 
@@ -130,20 +74,6 @@ Whether you're a fresher or an experienced professional, the application helps y
 <img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,html,css,javascript,nodejs,git,github,vscode"/>
 
 </div>
-
----
-
-| Technology | Purpose |
-|------------|---------|
-| ⚛ React | Frontend Development |
-| 🔷 TypeScript | Type Safety |
-| ⚡ Vite | Build Tool |
-| 🎨 Tailwind CSS | Styling |
-| 🧩 shadcn/ui | UI Components |
-| 🌐 REST API | Job Data |
-| 📦 npm | Package Manager |
-| 🗂 Git | Version Control |
-| ☁ GitHub | Repository Hosting |
 
 ---
 
@@ -230,54 +160,7 @@ npm run dev
  Apply Through Portal
 ```
 
----
 
-# 📈 Project Highlights
-
-| Feature | Status |
-|---------|:------:|
-| 🔍 Smart Search | ✅ |
-| 📍 Location Filter | ✅ |
-| 💼 Job Listings | ✅ |
-| ⚡ Fast Performance | ✅ |
-| 📱 Responsive Design | ✅ |
-| 🎨 Modern UI | ✅ |
-| 🌐 Multi-Platform Search | ✅ |
-
----
-
-# 🌟 Future Enhancements
-
-- ❤️ Save Favorite Jobs
-- 🔔 Email Notifications
-- 📄 Resume Upload
-- 🤖 AI Job Recommendations
-- 📊 Application Analytics
-- 🌙 Dark Mode
-- 📅 Interview Tracker
-- 🔖 Bookmark Jobs
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to GitHub
-5. Open a Pull Request
-
----
-
-# 📜 License
-
-This project is open-source and available under the **MIT License**.
-
----
-
-<div align="center">
 
 # ⭐ If you like this project, give it a Star!
 
