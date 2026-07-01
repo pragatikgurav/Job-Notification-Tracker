@@ -1,64 +1,296 @@
-# 💼 Job-Notification-Tracker
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:8B0000,40:DC2626,70:F97316,100:FACC15&text=💼%20Job%20Notification%20Tracker&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=Smart%20Job%20Search%20%7C%20Track%20Applications%20%7C%20Find%20Opportunities&descAlignY=60&animation=fadeIn"/>
 
-An elegant, modern dashboard designed to track, filter, and manage your job applications seamlessly. Built using cutting-edge frontend technologies for exceptional speed, responsiveness, and clean layout control.
+# 💼 Job Notification Tracker
 
-<div align="left">
-  <a href="https://id-preview--5486f61c-b771-4715-9a17-de11aaedc177.lovable.app/dashboard" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20App-blueviolet?style=for-the-badge&logo=vercel" alt="Live Demo" />
-  </a>
+### 🚀 Modern • Fast • Responsive • Smart Job Search Dashboard
+
+<p align="center">
+
+Discover, filter, and track thousands of job opportunities from multiple platforms in one beautiful dashboard. Built with modern technologies to provide a smooth, responsive, and efficient job-hunting experience.
+
+</p>
+
+<br>
+
+<a href="https://id-preview--5486f61c-b771-4715-9a17-de11aaedc177.lovable.app/dashboard">
+
+<img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Website-DC2626?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+
 </div>
 
 ---
 
-## 📸 Preview Gallery
+# 📖 About The Project
 
-Below are previews of the dashboard layout, demonstrating live AI job search metrics, location filtering, and streamlined layout options.
+Finding the right job from multiple platforms can be time-consuming and overwhelming.
 
-| Primary Feed | Location-Filtered Search |
-| :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/a1a11984-7516-4533-885c-4bbcc3221711" width="340" alt="Screenshot 2026-06-30 221017.png" /> | <img src="https://github.com/user-attachments/assets/bbab5390-d539-42ea-84d1-36a5de142364" width="340" alt="Screenshot 2026-06-30 221034.png" /> |
-| *Comprehensive view showcasing 60 jobs found across LinkedIn and other platforms.* | *Filtered results view demonstrating specific queries like Java in Bengaluru.* |
+**Job Notification Tracker** simplifies the process by bringing job listings into one modern dashboard where users can search, filter, and manage opportunities efficiently.
 
----
-
-## ✨ Features
-
-* **Advanced Search Filters:** Filter jobs dynamically by title, company, location, work mode, and experience level.
-* **Multi-Source Aggregator:** View unified listings pulled from top platforms like LinkedIn, Naukri, and more.
-* **Responsive Layout:** Optimized card design displaying key details (LPA, application date, location badges) beautifully across all device sizes.
-* **Save & Track:** Bookmark potential listings or hit Apply instantly.
+Whether you're a fresher or an experienced professional, the application helps you stay organized and discover relevant openings faster.
 
 ---
 
-## 🚀 Tech Stack
+# 🎯 Project Goals
 
-This project leverages modern web development tools to deliver a high-performance user experience:
-
-* **Framework:** [React](https://react.dev/) with [TypeScript](https://www.typescriptlang.org/)
-* **Build Tool:** [Vite](https://vitejs.dev/)
-* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-* **UI Components:** [shadcn/ui](https://ui.shadcn.com/)
+- 🔍 Simplify job searching
+- 🌍 Search jobs from multiple platforms
+- 📌 Track job opportunities
+- ⚡ Fast and responsive experience
+- 📱 Works perfectly on desktop and mobile
+- 🎨 Clean and modern UI
 
 ---
 
-## 🛠️ Development & Local Setup
+# ✨ Key Features
 
-If you prefer working locally inside your own IDE, you can easily spin up a local development server by following these steps:
+## 🔎 Smart Job Search
 
-### Prerequisites
-Ensure you have **Node.js** and **npm** installed. We recommend managing versions via [nvm](https://github.com/nvm-sh/nvm).
+- Search jobs instantly
+- Search by technology
+- Search by company
+- Search by location
 
-### Quick Start
-```sh
-# 1. Clone the repository
-git clone <YOUR_GIT_URL>
+---
 
-# 2. Navigate to the project folder
-cd <YOUR_PROJECT_NAME>
+## 📍 Advanced Filters
 
-# 3. Install required dependencies
-npm i
+- City Filter
+- Experience Filter
+- Remote Jobs
+- Hybrid Jobs
+- Full-Time Jobs
+- Internship Listings
 
-# 4. Start the local development server with instant preview
+---
+
+## 📋 Job Dashboard
+
+- Clean Job Cards
+- Salary Information
+- Company Details
+- Job Description
+- Application Link
+- Posted Date
+
+---
+
+## ❤️ User Experience
+
+- Beautiful Interface
+- Fast Loading
+- Responsive Design
+- Modern Layout
+- Easy Navigation
+- Smooth Animations
+
+---
+
+# 📸 Project Screenshots
+
+## 🏠 Dashboard
+
+<p align="center">
+
+<img src="https://github.com/user-attachments/assets/a1a11984-7516-4533-885c-4bbcc3221711" width="950"/>
+
+</p>
+
+---
+
+## 🔍 Search by Location
+
+<p align="center">
+
+<img src="https://github.com/user-attachments/assets/bbab5390-d539-42ea-84d1-36a5de142364" width="950"/>
+
+</p>
+
+---
+
+# ⚙️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,html,css,javascript,nodejs,git,github,vscode"/>
+
+</div>
+
+---
+
+| Technology | Purpose |
+|------------|---------|
+| ⚛ React | Frontend Development |
+| 🔷 TypeScript | Type Safety |
+| ⚡ Vite | Build Tool |
+| 🎨 Tailwind CSS | Styling |
+| 🧩 shadcn/ui | UI Components |
+| 🌐 REST API | Job Data |
+| 📦 npm | Package Manager |
+| 🗂 Git | Version Control |
+| ☁ GitHub | Repository Hosting |
+
+---
+
+# 📂 Folder Structure
+
+```text
+Job-Notification-Tracker
+│
+├── public
+│
+├── src
+│   ├── assets
+│   ├── components
+│   ├── pages
+│   ├── hooks
+│   ├── services
+│   ├── utils
+│   ├── context
+│   ├── App.tsx
+│   └── main.tsx
+│
+├── package.json
+├── vite.config.ts
+└── README.md
+```
+
+---
+
+# 🚀 Installation
+
+```bash
+# Clone Repository
+
+git clone https://github.com/YOUR_USERNAME/Job-Notification-Tracker.git
+
+# Open Folder
+
+cd Job-Notification-Tracker
+
+# Install Dependencies
+
+npm install
+
+# Run Development Server
+
 npm run dev
+```
+
+---
+
+# 🖥️ How It Works
+
+```text
+           👤 User
+
+              │
+
+              ▼
+
+        Search Jobs
+
+              │
+
+              ▼
+
+      Apply Filters
+
+              │
+
+              ▼
+
+      Fetch Job Data
+
+              │
+
+              ▼
+
+ Display Matching Jobs
+
+              │
+
+              ▼
+
+ Apply Through Portal
+```
+
+---
+
+# 📈 Project Highlights
+
+| Feature | Status |
+|---------|:------:|
+| 🔍 Smart Search | ✅ |
+| 📍 Location Filter | ✅ |
+| 💼 Job Listings | ✅ |
+| ⚡ Fast Performance | ✅ |
+| 📱 Responsive Design | ✅ |
+| 🎨 Modern UI | ✅ |
+| 🌐 Multi-Platform Search | ✅ |
+
+---
+
+# 🌟 Future Enhancements
+
+- ❤️ Save Favorite Jobs
+- 🔔 Email Notifications
+- 📄 Resume Upload
+- 🤖 AI Job Recommendations
+- 📊 Application Analytics
+- 🌙 Dark Mode
+- 📅 Interview Tracker
+- 🔖 Bookmark Jobs
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to GitHub
+5. Open a Pull Request
+
+---
+
+# 📜 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+<div align="center">
+
+# ⭐ If you like this project, give it a Star!
+
+<img src="https://img.shields.io/badge/Built%20with-React-61DAFB?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Styled%20with-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss"/>
+
+<img src="https://img.shields.io/badge/Powered%20by-Vite-646CFF?style=for-the-badge&logo=vite"/>
+
+<br><br>
+
+### ❤️ Happy Coding!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:8B0000,40:DC2626,70:F97316,100:FACC15"/>
+
+</div>
